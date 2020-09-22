@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemeHub</string>
+    <string name="share_button">share</string>
+    <string name="next_button">next</string>
+</resources>
